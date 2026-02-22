@@ -17,32 +17,92 @@ Dunia udah terlalu banyak konflik. Gue mau nulis sesuatu yang simpel, hangat, da
 ### Tokoh
 > *Siapa protagonisnya? Apa yang mereka mau, dan apa yang menghalangi mereka?*
 
-**Sania** (protagonis, ~12–14 tahun / usia SMP)
-- Tinggal di suku pedalaman hutan (tradisional, jadul — bukan Baduy, tapi vibenya mirip)
-- Pakaian: baju batik one-piece panjang dengan ornamen tulisan khas sukunya
+---
+
+#### Sania (protagonis)
+
+**Demografi:** ~12–14 tahun / usia SMP
+
+**Fisik:**
+- Kulit sawo matang, rambut bob hitam
+- Pakaian: kain panjang berwarna bumi, dililitkan dengan cara khas suku — bukan baju modern
 - Aksesoris: headband
-- Fisik: kulit sawo matang, rambut bob
-- Ornamen di bajunya = background hidup / takdir yang diemban sukunya untuk dia
-- Ditakdirkan jadi **brand ambassador** suku — wajah resmi, simbol keagungan
-- Tapi kepribadiannya: **heboh, super curious, polos, penuh energi** — kayak Yotsuba
-  - Rasa ingin tahu yang nggak ada matinya
-  - Innocent chaos — bikin ribut tapi tanpa niat jahat
-  - Gampang akrab sama siapa aja
-  - Logika unik yang sering bikin salah baca situasi (tapi menggemaskan)
+- Ornamen sulaman di tepi kain = takdir dan background hidup yang diemban suku untuknya (disebutkan subtle di narasi, tidak eksplisit)
 
-**Nenek** *(dipanggil "Nenek" saja — POV Sania, jadi nggak perlu nama lain)*
-- Tokoh pendukung utama
-- Misi diam-diam: ngegembleng Sania supaya ngerti dan menghayati nilai-nilai suku
-- Caranya: bukan strict atau galak — justru ikut flow Sania, sabar, lembut
-- Tapi di balik itu tetap ada kebijaksanaan yang perlahan nyantol ke Sania (atau nggak, dan itu juga lucu)
-- Dinamika: nenek yang bijak... yang akhirnya terseret chaos cucunya juga
+**Peran di suku:**
+- Ditakdirkan jadi **"Amanat Hutan"** — wajah resmi suku, simbol keagungan Tomaha'ee untuk dunia luar
+- Belum sepenuhnya mengerti apa artinya, dan itu bagian dari arc-nya
 
-**Ophe** (sidekick / teman sebaya)
-- Healer suku, lagi belajar jadi herbalist
-- Kepribadian: kalem, thoughtful — kebalikan Sania
-- Teman Sania sejak kecil
-- Dinamika: Wilson di House — sadar ini ide buruk, ngasih advice dikit, tapi ujungnya keisep juga
-- Sebagai herbalist: sering jadi yang "beres-beres" akibat chaos Sania, literally maupun figuratif
+**Kepribadian:**
+- Heboh, super curious, polos, penuh energi — referensi: Yotsuba (Yotsuba&!)
+- Rasa ingin tahu yang tidak ada habisnya — selalu punya pertanyaan, selalu mau tahu
+- Innocent chaos: bikin ribut tapi tidak pernah dengan niat jahat
+- Gampang akrab dengan siapa saja — tidak ada orang asing di dunianya
+- Logika unik yang konsisten dari sudut pandang anak-anak: sering salah baca situasi, tapi dengan cara yang menggemaskan bukan menjengkelkan
+- Bisa takut dan kalkulasi konsekuensi — tidak selalu nekat, ada momen di mana ia berhitung dulu
+
+**Cara bicara:** Langsung, apa adanya, tidak ada filter — pertanyaan keluar begitu muncul di kepala
+
+---
+
+#### Nenek *(dipanggil "Nenek" saja — POV Sania)*
+
+**Demografi:** Tua, nenek kandung Sania
+
+**Fisik:** *(belum ditetapkan secara detail — keep open)*
+
+**Peran di suku:** *(belum ditetapkan secara eksplisit — tapi jelas dihormati)*
+
+**Kepribadian:**
+- Kalem dan santai — tidak pernah terburu-buru, tidak pernah panik
+- Sangat knowledgeable dan wise — tahu banyak hal tentang suku, alam, dan kehidupan
+- Wisdom-nya selalu oblique, tidak pernah didaktik: jawaban Nenek sering terasa tidak langsung menjawab, tapi justru itu yang paling dalam
+- Sabar mengikuti flow Sania — tidak pernah memotong atau menghentikan rasa penasaran cucunya secara kasar
+- Di balik ketenangannya ada humor kering yang sangat halus — sesekali muncul tanpa ia tampakkan
+- Misi diam-diam: ngegembleng Sania supaya mengerti dan menghayati nilai-nilai suku, tapi caranya selalu tidak terasa seperti pengajaran
+
+**Dinamika dengan Sania:**
+- Nenek yang bijak... yang sesekali terseret arus chaos cucunya juga
+- Tidak pernah tanya lebih dari yang perlu — tahu kapan harus diam dan kapan harus bicara
+- Cara memberi pesan: lewat kalimat pendek yang seperti lewat begitu saja, tapi nyangkut lama
+
+**Cara bicara:** Ekonomis. Satu kalimat Nenek bisa menggantikan satu paragraf penjelasan.
+
+---
+
+#### Ophe (sidekick / teman sebaya)
+
+**Demografi:** Sebaya Sania, teman sejak kecil
+
+**Fisik:** *(belum ditetapkan)*
+
+**Peran di suku:** Healer suku — sedang belajar jadi herbalist di bawah bimbingan ibunya (sang penyembuh utama)
+
+**Kepribadian:**
+- Kalem, thoughtful — kebalikan Sania dalam hampir segala hal
+- Sadar ketika sesuatu adalah ide buruk, tapi tetap ikut — bukan karena bodoh, tapi karena peduli pada Sania
+- Humor kering yang sangat subtle: jarang tertawa, tapi ada kedutan kecil di sudut matanya yang hanya Sania yang bisa baca
+- Sering jadi yang "beres-beres" akibat chaos Sania — literally (obat, luka) maupun figuratif (situasi)
+- Tidak banyak bicara, tapi kalau bicara selalu tepat sasaran
+
+**Dinamika dengan Sania:**
+- Wilson di House M.D.: tahu ini mungkin ide buruk, kasih warning singkat, tapi ujungnya keisep juga
+- Senyuman tipis Ophe = "jangan bikin kekacauan ya" — Sania selalu balas dengan cengiran yang bisa berarti apa saja
+- Ophe tidak pernah meninggalkan Sania sendirian dalam situasi yang benar-benar berbahaya
+
+**Cara bicara:** Singkat, presisi, tidak ada basa-basi — tapi tidak dingin
+
+---
+
+#### Tokoh Pendukung (sudah muncul)
+
+**Paman Ato** — pemahat kayu, pintunya selalu terbuka, "mendengarkan" kayu sebelum memahat. Wisdom lewat analogi kerajinan tangan.
+
+**Mbah Resi** — tetua perempuan paling tua di Tomaha'ee, duduk di batu datar saat panen, tidak banyak bicara tapi selalu ada. Kedutan di sudut bibir = tanda menahan tawa.
+
+**Bibi Waran** — perempuan ladang, suara satu nada lebih keras dari perlu, efisien, tidak basa-basi — tapi sabar mengajari kalau mau belajar dengan sungguh-sungguh.
+
+**Eti** — perempuan muda di ladang, dua-tiga tahun lebih tua dari Sania, murah senyum, tulus.
 
 ### Dunia / Setting
 > *Di mana dan kapan cerita ini terjadi? Apa yang bikin settingnya unik?*
