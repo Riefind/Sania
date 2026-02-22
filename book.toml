@@ -1,0 +1,10 @@
+[book]
+title = "Sania"
+authors = ["Ariefina Rahernawan"]
+language = "id"
+src = "src"
+
+[output.html]
+default-theme = "coal"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/ariefinarahernawan/Sania"
