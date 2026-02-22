@@ -74,7 +74,10 @@ Dunia udah terlalu banyak konflik. Gue mau nulis sesuatu yang simpel, hangat, da
 
 **Demografi:** Sebaya Sania, teman sejak kecil
 
-**Fisik:** *(belum ditetapkan)*
+**Fisik:**
+- Tubuh kecil, lebih pendek dari Sania
+- Rambut hitam panjang
+- Kulit putih — tipikal anak rumahan yang lebih banyak di dalam dari di luar
 
 **Peran di suku:** Healer suku — sedang belajar jadi herbalist di bawah bimbingan ibunya (sang penyembuh utama)
 
@@ -113,6 +116,14 @@ Dunia udah terlalu banyak konflik. Gue mau nulis sesuatu yang simpel, hangat, da
 - Elemen mistis: *belum dikembangkan, keep it low for now*
 - Teknologi: pure tradisional di dalam suku
 
+**Ekonomi & Perdagangan:**
+- Sistem barter — belum ada mata uang
+- **Pasar bulanan antar-desa**: lapangan besar, tenda-tenda bambu & kain, ratusan orang dari berbagai cabang suku Tomaha'ee
+- Tomaha'ee punya banyak cabang/desa, proximity jauh — pasar jadi titik temu sebulan sekali
+- Pedagang dari berbagai latar: orang dataran, orang gunung (madu hutan, batu hijau, kayu manis), orang laut (selalu pakai sarung, tinggal di kapal, bawa ikan kering, kerang, garam laut)
+- Ternak juga diperdagangkan: ayam, bebek, kambing muda, kadang durian
+- Transportasi ke pasar: dokar (gerobak kayu ditarik kerbau) — yang pakai dokar patungan dari hasil barter
+
 **Dua fase setting:**
 1. **Di dalam suku** — kehidupan sehari-hari, ritual, hutan, orang-orang suku
 2. **Keluar ke dunia luar** — Sania dikenalkan sebagai brand ambassador, ketemu teknologi & budaya baru
@@ -134,6 +145,7 @@ Dunia udah terlalu banyak konflik. Gue mau nulis sesuatu yang simpel, hangat, da
 - Hidup yang simpel itu indah
 - Rasa ingin tahu adalah hadiah, bukan masalah
 - Kebahagiaan nggak butuh konflik besar untuk terasa nyata
+- Yang penting bukan nilai materi dari sesuatu, tapi *value* di balik tindakannya — novel ini tidak petty soal uang/barter/hitung-hitungan; fokusnya selalu ke niat, hubungan antar orang, dan apa yang tindakan itu cerminkan tentang karakter
 
 ---
 

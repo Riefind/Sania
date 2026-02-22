@@ -124,6 +124,48 @@ Nenek membangunkan Sania sebelum cahaya pertama dengan bau kemenyan. Hari ini ad
 - Wadah kayu ukiran Paman Ato: mangkuk kecil bermotif daun dan akar, diletakkan sebagai persembahan
 - Biji-bijian merah tua Mbah Resi: ditaburkan di sekeliling akar pohon
 
+### Chapter 3 — `drafts/chapter-3-draft.md`
+
+**Status**: Draft awal, sudah melalui beberapa ronde revisi.
+
+**Judul**: *Sania dan Pasar Kaget*
+
+**Setting**: Pagi sebelum fajar hingga malam, Tomaha'ee → pasar antar-desa → pulang.
+
+**Summary cerita:**
+Nenek memberitahu Sania kemarin malam bahwa besok ada pasar bulanan dan Sania harus ikut Paman Ato untuk belajar barter. Sania tidak tidur nyenyak karena excited. Pagi-pagi ia sudah bangun sendiri (belum pernah terjadi), lalu berangkat naik dokar Mbah Resi yang ditarik kerbau, Paman Ato yang nyetir. Ophe ikut juga — bawa dagangan ibu (ramuan, salep, minyak gosok). Perjalanan lewat hutan yang lebih tua dari biasanya — Sania dan Ophe sama-sama first-timer ke pasar. Sampai di pasar: lapangan besar dipenuhi puluhan sampai ratusan orang dari berbagai cabang suku Tomaha'ee — orang dataran, orang gunung (bawa madu hutan, batu hijau, kayu manis), dan orang laut (selalu pakai sarung, bawa ikan kering, kerang, garam laut). Ada juga ternak (ayam, bebek, kambing) dan durian. Sistem barter, pasar sebulan sekali. Sania barter 3 ikat jagung Nenek: (1) beras merah 4.5 genggam dari perempuan tua yang recognize Tomaha'ee, (2) ubi, (3) tomi-tomi. Ophe dan Sania sama-sama belajar barter — Ophe juga nggak tahu harga, tapi pakai logika dari pengalaman ibunya. Paman Ato jual topeng — 4 dari 6 laku. Dialog soal beda topeng ritual vs topeng jual ("yang ritual, kayunya yang bilang mau jadi apa"). Ophe menemukan *rengas bulan* — daun langka yang ibunya ceritakan bertahun-tahun. Ophe nggak cukup buat barter. Sania pakai 2 mangkuk beras titipan Nenek untuk beliin. Dinamika terbalik — Sania yang tenang, Ophe yang heboh. Perjalanan pulang: Sania galau mau bilang apa ke Nenek soal beras kurang. Ophe nasihat: "Kalau kamu jujur, paling kamu diajari." Sampai rumah, Sania jujur ke Nenek. Nenek dengerin, menghela napas, lalu pukpuk kepala Sania: "Itu tindakan yang benar, Nia." Nenek bilang yang Sania lakukan untuk Ophe lebih mahal dari rengas bulan. Lalu kasih tau: lain kali bilang dulu sebelum berangkat, "supaya Nenek bisa siapkan lebih." Ending: Sania memikirkan kenapa memberi sesuatu untuk Ophe terasa lebih kenyang dari makan malam.
+
+**Yang dikerjakan:**
+- Ditulis dari nol sebagai chapter baru
+- Beberapa ronde revisi: opening dikembangin (flashback malam sebelumnya), Paman Ato kaget dan senang lihat Sania on-time, Sania excited lihat Ophe ikut, Ophe juga first-timer di pasar (bukan know-it-all), ditambah layer orang gunung/laut/ternak/durian, scene malam Nenek diubah jadi lebih hangat (pukpuk + "itu tindakan yang benar")
+- Hint Nenek sudah nitip ke Paman Ato biar ngajarin Sania
+
+**Keputusan baru:**
+- Pasar bulanan antar-desa: suku Tomaha'ee punya banyak cabang/desa, proximity jauh, pasar sebulan sekali
+- Sistem barter — belum ada mata uang
+- Dokar Mbah Resi: kerbau + gerobak kayu, biasanya untuk sawah/angkut panen. Yang pakai dokar patungan (udunan dari hasil barter). Mbah Resi tidak ikut ke pasar
+- Paman Ato juga jualan topeng dekoratif (bukan cuma ritual) — butuh makan juga
+- Orang gunung dan orang laut ikut pasar — dunia Tomaha'ee lebih luas dari satu desa
+- Ophe dan Sania sama-sama first-timer di pasar — Ophe bukan yang selalu tahu semua
+- Novel ini tidak petty soal hitung-hitungan materi — fokus ke value di balik tindakan (ditambahkan ke brainstorm sebagai prinsip tema)
+
+**Elemen dunia baru:**
+- Pasar bulanan antar-desa: lapangan besar, tenda-tenda bambu & kain, ratusan orang
+- Orang gunung: kulit lebih gelap, bawa madu hutan dalam bambu, batu hijau, kayu manis, cara bicara lambat
+- Orang laut: sarung kotak-kotak pudar, kulit mengkilap, bawa ikan kering, kerang, garam laut kasar
+- Ternak di pasar: ayam, bebek, kambing muda
+- Durian sebagai dagangan pasar
+- Dokar Mbah Resi + kerbau filosofis
+- *Kayu ara*: pohon besar di hutan antara desa, akar menjulur dari dahan ke tanah
+- *Seling*: semak rendah, tanda tanah subur
+- *Rengas bulan*: daun langka, cokelat keemasan, urat bercabang halus, cuma tumbuh di hutan atas dekat mata air — untuk demam yang tidak turun, luka dalam. Sangat dicari herbalist
+- Beras hitam: dari sawah di lereng, tumbuh lama, rasa lebih enak
+- Ubi ungu kehitaman: dari desa timur
+- Laki-laki tua penjual pisau: duduk terpisah di ujung deretan pasar, jual pisau bergagang kayu dan tulang yang diukir, bilah pendek tapi tebal, setiap pisau berbeda bentuk — bukan pisau dapur
+
+**Potensi Chapter 4:**
+- Scene pisau di pasar (line ~279) bisa jadi seed untuk chapter tersendiri — Sania penasaran dengan laki-laki tua penjual pisau, bisa mengarah ke eksplorasi soal kerajinan pisau/senjata tradisional, hubungannya dengan Paman Ato (sama-sama pengrajin), atau kunjungan ke desa asal si pembuat pisau
+
 ---
 
 ## Template Entry Baru
