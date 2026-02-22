@@ -1,14 +1,6 @@
-# SKILL.md — Custom Skills untuk Claude Agent
+Lanjutkan menulis novel Sania dari titik terakhir.
 
----
-
-## /nulis
-
-**Trigger:** `/nulis`
-
-**Deskripsi:** Lanjutkan menulis novel Sania dari titik terakhir.
-
-**Behavior:**
+Langkah-langkah:
 
 1. **Baca konteks wajib terlebih dahulu:**
    - `notes/novel-brainstorm.md` — fondasi dunia dan karakter
@@ -29,6 +21,7 @@
    - Setiap kali nulis atau revisi bagian chapter → langsung catat di changelog
    - Setiap kali ada keputusan baru (karakter, elemen dunia, struktur) → langsung catat
    - Setiap kali menimpa draft → catat apa yang berubah dan kenapa
+   - **Wajib sertakan "Summary cerita"** di setiap entry chapter — ringkasan alur naratif yang cukup detail supaya agent di sesi berikutnya langsung paham arah cerita tanpa baca full draft
    - Format: tambahkan di bawah tanggal hari ini (buat entry tanggal baru kalau belum ada)
 
 5. **Simpan ke file draft:**

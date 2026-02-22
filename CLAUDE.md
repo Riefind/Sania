@@ -53,6 +53,8 @@ Ini adalah conventions yang sudah ditetapkan dan **tidak boleh diubah tanpa izin
 
 ```
 Sania/
+├── .claude/
+│   └── commands/   ← custom slash commands (e.g. /nulis)
 ├── drafts/         ← file chapter aktif
 ├── notes/
 │   ├── novel-brainstorm.md
@@ -69,3 +71,4 @@ Sania/
 - Kalau mau propose perubahan besar, tanya dulu — jangan langsung tulis
 - Kalau ada keputusan yang belum jelas dari brainstorm atau changelog, tanya sebelum berasumsi
 - Setelah selesai menulis atau melakukan perubahan signifikan, update `notes/changelog.md`
+- Setiap entry chapter di changelog **wajib punya "Summary cerita"** — ringkasan alur naratif yang cukup detail supaya agent di sesi berikutnya bisa langsung paham arah cerita tanpa perlu baca full draft

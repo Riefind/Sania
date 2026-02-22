@@ -60,9 +60,9 @@ Sania mengangguk dan berdiri. Kakinya sudah gatal sejak tadi.
 
 Petualangan Sania dimulai.
 
-Ia berjalan menyusuri jalan setapak utama desa Tomaha'ee — bukan jalan aspal atau batu, melainkan tanah padat yang terbentuk alami oleh langkah kaki para leluhur selama ratusan tahun. Kalau kamu tahu cara melihatnya, jalan ini punya kontur: lebih cekung di tengah, sedikit terangkat di pinggir, dan di beberapa titik ada akar pohon yang sudah jadi bagian dari jalanan itu sendiri, dihaluskan oleh ribuan telapak kaki yang melewatinya.
+Ia berjalan menyusuri jalan setapak utama desa Tomaha'ee — tanah padat yang terbentuk sendiri oleh ratusan tahun langkah kaki, dengan akar-akar pohon yang sudah jadi bagian jalanan, dihaluskan oleh ribuan telapak kaki yang melewatinya.
 
-Sania berjalan dengan cara yang hanya ia miliki: pelan tapi penuh tujuan, matanya bergerak lebih cepat dari kakinya, selalu mencari sesuatu tanpa pernah tahu pasti apa yang dicari. Bajunya, satu lembar kain panjang berwarna bumi yang dililitkan dengan cara khusus, bergerak ikut langkahnya. Di tepi-tepinya ada sulaman benang tua — pola yang sudah ada sejak sebelum Sania lahir, sejak bahkan sebelum nama Sania dipilih.
+Bajunya, satu lembar kain panjang berwarna bumi yang dililitkan dengan cara khusus, bergerak ikut langkahnya. Di tepi-tepinya ada sulaman benang tua — pola yang sudah ada sejak sebelum Sania lahir, sejak bahkan sebelum nama Sania dipilih.
 
 Di kanan kirinya, gubuk-gubuk panggung berdiri dengan anggun, masing-masing punya halaman kecil. Ada yang ditanami kangkung yang tumbuh meliuk-liuk di pagar bambu. Ada yang punya pohon pepaya di sudutnya, buahnya menggantung berat dan menguning di bagian bawah. Ada satu halaman yang seluruhnya ditanami bunga — Sania tidak tahu namanya, tapi warnanya ungu dan setiap pagi selalu ada kumbang yang datang dan pergi seperti tamu tetap.
 
@@ -326,6 +326,10 @@ Di antara pohon-pohon, sekitar dua puluh langkah dari tempat mereka berdiri, see
 
 Sania merasakan jantungnya berdetak lebih keras.
 
+*Nenek pernah bilang.* Kalimat itu muncul begitu saja di kepalanya, tanpa ia panggil. *Babi hutan tidak akan menyerang kalau kamu tidak bikin dia kaget. Tapi kalau dia sudah kaget — lari ke pohon, bukan lurus. Mereka tidak bisa belok cepat.*
+
+Sania tidak tahu apa yang ia harapkan dari informasi itu sekarang. Pohon terdekat ada di belakangnya. Kakinya tidak bergerak.
+
 Di sebelahnya, Ophe tidak panik — ia hanya sangat diam, dengan cara tenang yang terasa dipelajari, bukan dibuat-buat. Salah satu tangan Ophe perlahan bergerak ke bahu Sania, menyentuhnya ringan: *tenang*.
 
 Mereka menunggu.
@@ -340,7 +344,13 @@ Sania menghembuskan napas. Ia tidak sadar sudah menahannya.
 
 "Itu besar banget," kata Sania akhirnya, pelan.
 
-"Iya." Ophe menurunkan tangannya. "Kita tidak usah lebih jauh lagi."
+"Iya." Ophe menurunkan tangannya. Suaranya masih tenang, tapi ada sesuatu di bawah ketenangannya yang berbeda dari biasanya. "Kalau dia mendekat, jangan lari lurus. Sembunyikan bau — masuk ke balik pohon besar, diam."
+
+"Kamu tahu dari mana?"
+
+"Ibu." Ophe melihat ke arah hutan sebentar, ke tempat babi hutan tadi berdiri. "Dia sering ke hutan sendirian."
+
+"Kita tidak usah lebih jauh lagi."
 
 "Iya." Sania tidak membantah — yang jarang terjadi.
 
@@ -376,12 +386,6 @@ Sania melirik Ophe. Ophe membalas tatapannya dengan ekspresi yang sangat netral.
 
 Di lapangan utama, anak-anak lain sedang bermain *gasing* dengan serius — meneriakkan nama masing-masing ketika gasingnya bertahan lama. Sania melambai pada mereka tanpa berhenti, terus berjalan.
 
-Ia berjongkok sebentar di tepi sungai, memperhatikan ikan-ikan kecil yang berenang melawan arus. Mereka kecil, tubuhnya nyaris bening, tapi gerakannya tegas — selalu ke atas, selalu melawan arus, seperti tidak pernah terpikir untuk melakukan yang sebaliknya.
-
-Sania duduk di sini cukup lama, mengamati, tidak berpikir tentang apa-apa yang besar. Hanya ikan. Hanya air. Hanya suara sungai yang tidak pernah persis sama dari satu detik ke detik berikutnya.
-
----
-
 Sore datang dengan warna keemasan yang menempel di setiap permukaan.
 
 Sania duduk di bawah pohon beringin raksasa di ujung desa — tempat favoritnya — menatap perkampungan Tomaha'ee yang terlihat mungil dari sini, dikelilingi oleh lautan hijau yang tak bertepi. Akar-akar beringin yang menjuntai di sekitarnya seperti tirai, membuat tempat ini terasa seperti ruangan yang tidak punya atap.
@@ -390,7 +394,7 @@ Dari sini, Sania bisa melihat hampir semua: ladang yang sekarang mulai sepi sete
 
 Tomaha'ee terlihat seperti sesuatu yang hidup dari sini. Bukan hidup karena ada orang di dalamnya, tapi hidup dengan caranya sendiri — bernafas, bergerak, punya ritme yang tidak perlu ditulis ke mana pun karena sudah tersimpan di dalam tanah dan pohon dan batu-batunya.
 
-Orang-orang Tomaha'ee bilang, Sania itu "Amanat Hutan". Kata Nenek, suatu hari nanti ia akan jadi wajah suku — simbol keagungan Tomaha'ee untuk dunia luar yang besar. Sania belum begitu paham apa artinya itu, apa artinya jadi simbol untuk sesuatu yang sebesar ini. Tapi duduk di sini, menatap desa di bawahnya, ia merasakan sesuatu yang tidak punya nama yang tepat dalam bahasa yang ia tahu — semacam rasa bahwa semua ini bukan hanya indah, tapi juga penting, tapi juga milik bersama, dan karena itu ada bagiannya juga yang menjadi tanggung jawab.
+Orang-orang Tomaha'ee bilang, Sania itu "Amanat Hutan". Sania tidak terlalu tahu apa artinya. Tapi duduk di sini, menatap desa yang kelihatan mungil di bawahnya, ada sesuatu yang naik ke dadanya — sesuatu yang tidak enak tapi juga tidak buruk. Seperti waktu ia mengangkat sesuatu yang ternyata lebih berat dari tampaknya, tapi tangannya tidak mau melepas.
 
 *Kulintang* berbunyi dari pusat desa. Satu, dua, tiga ketukan.
 
@@ -444,22 +448,16 @@ Mereka kembali makan. Diam lagi, tapi diam yang berbeda dari sebelumnya — lebi
 
 "Nek," kata Sania lagi, lebih pelan. "Tadi aku ke pohon besar. Yang ada kain putihnya."
 
-Nenek tidak berhenti mengunyah. Hanya melirik sebentar ke arah Sania.
+Nenek tidak berhenti mengunyah. Hanya melirik sebentar ke arah Sania, lalu kembali ke piringnya.
 
 "Aku megang batangnya," lanjut Sania. "Dan aku bilang... aku bilang aku senang dia ada di sini. Nggak minta apa-apa. Apa itu boleh?"
 
-Nenek meletakkan piring dan menatap Sania — bukan tatapan yang menguji, tapi tatapan yang sedang benar-benar melihat. Lama sekali, terasa, meskipun mungkin hanya beberapa detik.
+"Pohon itu sudah ada lama sekali sebelum kita," kata Nenek akhirnya. Pelan, seperti berbicara pada dirinya sendiri. "Pasti sudah mendengar banyak hal."
 
-"Itu yang paling benar yang bisa kamu lakukan," kata Nenek akhirnya.
-
-Sania tidak menjawab. Ia hanya mengangguk dan kembali pada ubinya.
-
-Di luar, malam Tomaha'ee sudah penuh. Suara jangkrik, suara katak, sesekali suara angin yang lewat di antara atap-atap rumbia. Dari kejauhan, sayup-sayup, suara seseorang yang memetik alat petik berdawai — melodi sederhana yang berulang dengan variasi kecil, seperti orang yang sedang berbicara kepada dirinya sendiri.
+Sania tidak tahu harus menjawab apa. Jadi ia tidak menjawab. Ia hanya kembali pada ubinya.
 
 Sania tidur malam itu dengan perut kenyang, satu hal yang sudah diselesaikan, dan seribu hal lain yang sedang menunggu giliran untuk ditanyakan esok hari.
 
-Tapi itu urusan besok.
+Di luar, malam Tomaha'ee sudah penuh. Suara jangkrik, suara katak, sesekali suara angin yang lewat di antara atap-atap rumbia. Dari kejauhan, sayup-sayup, suara seseorang yang memetik alat petik berdawai — melodi sederhana yang berulang dengan variasi kecil, seperti orang yang sedang berbicara kepada dirinya sendiri.
 
-Untuk sekarang: Tomaha'ee di luar jendela, gelap yang hangat, dan bau hutan yang tidak pernah benar-benar pergi.
-
-Dan itu lebih dari cukup.
+Bau hutan masuk lewat celah anyaman bambu, pelan dan tidak terburu-buru.
